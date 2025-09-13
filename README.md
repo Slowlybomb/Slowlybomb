@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Slowlybomb
 - 👀 I’m interested in Cyber Security and Coding
 - 🌱 I’m currently studying in UCC
-- ⚡ Fun fact: I have 10ty fingers
+- ⚡ Fun fact: I have 10 fingers
 
 - ## Get in Touch
 - 🌐 [My Website](https://4slowbomb.com)  
