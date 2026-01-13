@@ -69,6 +69,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Slowlybomb/assets/blob/main/wave-joe.gif" alt="profile views" />
+    <img src="https://github.com/Slowlybomb/assets/blob/main/wave-joe.gif" alt="profile views" width="100"/>
 </p>
 
