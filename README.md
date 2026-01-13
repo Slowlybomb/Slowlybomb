@@ -1,4 +1,4 @@
-# Hi, I'm Hleb Slyusar 👋
+# Hi, I'm Hleb Slyusar <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="35" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HlebSlyusar&style=for-the-badge&color=ED8335" alt="profile views" />
