@@ -52,8 +52,6 @@
 - 👥 Leadership: software/avionics team coordination and delivery
 
 ---
-
-## 🔗 Connect With Me
 ## 🔗 Connect with me
 
 <p align="center">
@@ -68,5 +66,9 @@
   <a href="https://4slowbomb.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/Slowlybomb/assets/blob/main/wave-joe.gif" alt="profile views" />
 </p>
 
