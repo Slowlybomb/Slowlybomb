@@ -1,4 +1,4 @@
-# Hi, I'm Hleb Slyusar <img src="https://tenor.com/maipsVfDH5X.gif" width="35" />
+# Hi, I'm Hleb Slyusar <img src="https://github.com/Slowlybomb/assets/blob/main/hello-smiley.gif" width="35" />
 
 
 <p align="center">
