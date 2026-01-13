@@ -56,6 +56,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+  <img src="https://github.com/Slowlybomb/assets/blob/main/giphy.gif" width="35" />
   <a href="https://www.linkedin.com/in/YOUR_LINK_HERE/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-120B40?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
