@@ -1,4 +1,5 @@
-# Hi, I'm Hleb Slyusar <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="35" />
+# Hi, I'm Hleb Slyusar
+<div class="tenor-gif-embed" data-postid="10073393001027262219" data-share-method="host" data-aspect-ratio="1.43931" data-width="100%"><a href="https://tenor.com/view/wave-joe-gif-10073393001027262219">Wave Joe Sticker</a>from <a href="https://tenor.com/search/wave-stickers">Wave Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HlebSlyusar&style=for-the-badge&color=ED8335" alt="profile views" />
