@@ -54,8 +54,19 @@
 ---
 
 ## 🔗 Connect With Me
+## 🔗 Connect with me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE/" target="_blank">
+  <a href="https://www.linkedin.com/in/hleb-slyusar-8089162b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-120B40?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a
+
+  <a href="mailto:slyusar.gleb.ua@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ED8335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://4slowbomb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
