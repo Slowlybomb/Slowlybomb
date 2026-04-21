@@ -91,19 +91,6 @@ Passionate about **Cybersecurity**, **AI/ML**, and **Embedded Systems**
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HlebSlyusar&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ED8335&icon_color=ED8335" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HlebSlyusar&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ED8335" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HlebSlyusar&theme=radical&hide_border=true&background=1a1b27&ring=ED8335&fire=ED8335&currStreakLabel=ED8335" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Get in Touch
 
 <p align="center">
