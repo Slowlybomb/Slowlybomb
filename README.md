@@ -1,112 +1,90 @@
-# Hi, I'm Hleb Slyusar <img src="https://github.com/Slowlybomb/assets/blob/main/hello-smiley.gif" width="35" />
+# Hleb Slyusar
 
-<p align="center">
-  <em>Software Engineer | Cybersecurity Enthusiast | Avionics Developer</em>
-</p>
+Software engineering · Rocket avionics · Machine learning
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HlebSlyusar&style=flat-square&color=ED8335" alt="profile views" />
-  <a href="https://www.linkedin.com/in/hleb-slyusar-8089162b4/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://4slowbomb.com"><img src="https://img.shields.io/badge/Website-Visit-000000?style=flat-square&logo=vercel" alt="Website"/></a>
-</p>
+I'm a final-year **BSc Computer Science (Hons)** student at **University College Cork**, graduating in **2027**. I build software for distributed ML systems, rocket telemetry, and simulation testing.
 
----
+Previously a **Software Engineering Intern at Red Hat, OpenShift AI**. I also lead a **six-person avionics software team** at UCC Rocket and Space Exploration Team, with experience across **Mach-25 and Mach-26 and two rocket flights**.
 
-## About Me
+[LinkedIn](https://www.linkedin.com/in/hleb-slyusar-8089162b4/) · [Portfolio](https://4slowbomb.com) · [Email](mailto:slyusar.gleb.ua@gmail.com)
 
-**BSc Computer Science (3rd Year)** at **University College Cork (UCC)** — Graduating 2027
+## Experience
 
-**Software Engineering Intern @ Red Hat** — Currently contributing to enterprise open-source solutions
+### Red Hat — Software Engineering Intern, OpenShift AI
+*March–August 2026*
 
-**Head of Software Avionics** at **UCC Rocketry & Space Exploration Society (RSES)** — Leading software development for rocket flight systems
+- Delivered **8 merged pull requests across 5 OpenShift AI and Kubeflow repositories**.
+- Wrote approximately **50 Python and Go unit and integration tests** for training backends, distributed workloads, and dashboard services, alongside end-to-end tests for distributed fine-tuning.
+- Built a Go reverse proxy for the OpenShift AI Data Registry with bearer authentication, ConfigMap-based service discovery, failure handling, and table-driven tests.
+- Diagnosed nine cascading LoRA pipeline failures and resolved a GPU runtime base-image incompatibility, unblocking model evaluation.
 
-Passionate about **Cybersecurity**, **AI/ML**, and **Embedded Systems**
+### UCC Rocket and Space Exploration Team — Team Lead, Avionics Software
+*2024–present*
 
----
+- Led six people across **Mach-25 and Mach-26**, supporting two rocket flights.
+- Coordinate ground-station software and supporting systems, with hands-on work on telemetry and image recognition.
+- Develop my avionics and rocketry knowledge independently alongside my Computer Science degree.
 
-## Current Projects & Work
+### Goatsbridge Trout — Data & Systems Analyst
+*June–September 2024*
 
-### Red Hat Internship
-- Contributing to enterprise-grade open-source software
-- Working with modern development workflows and collaborative engineering practices
+- Supported implementation of a material requirements planning system.
+- Improved inventory traceability and dispatch workflows, contributing to a **10% increase in operational efficiency**.
+- Analysed operational data with Python and Excel and contributed to documentation and training.
 
-### Prometheus Rocket Avionics
-- Developing flight computer logic and sensor integration systems
-- Building real-time telemetry and data acquisition pipelines
-- Implementing fail-safe mechanisms for mission-critical operations
+## Selected projects
 
-### AI/ML Systems
-- **Terrain Recognition** using YOLO and Computer Vision
-- Real-time object detection for autonomous flight decision support
-- Training and deploying models on **AWS (EC2 + S3)**
+### ML-Guided Simulation Testing of Rocket Flight Software
+*Final-year project · In progress*
 
-### Cybersecurity Research
-- Web application security and penetration testing
-- Ethical hacking and CTF competitions
-- Security-focused development practices
+I'm developing a simulation testbed to investigate whether ML-guided scenario selection can find flight-software requirement violations more efficiently than random and Latin hypercube sampling.
 
----
+The initial focus is **apogee detection**: modelling vertical flight, generating virtual sensor readings, and injecting delayed, frozen, noisy, or transient sensor faults. Requirement checks cover false apogee reports and detection timing, including barometric pressure transients after stage separation.
 
-## Technical Skills
+The planned evaluation uses equal simulation budgets and measures tests required to find a violation, violation rate, safety margins, and experiment time. Previous launch telemetry informs realistic fault ranges.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### CosmoSoft — Rocket Telemetry Ground Station
+*C++ · Qt6 · Serial and radio telemetry*
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- Built a real-time ground-station application to decode telemetry, visualise live sensor data, and detect packet errors.
+- Implemented multithreaded data ingestion and modular plots, status indicators, and system-health displays.
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Satellite Image Recognition
+*Python · TensorFlow · Docker · AWS EC2/S3*
 
-### Specializations
-- **Machine Learning & AI** — YOLO, Computer Vision, Model Deployment
-- **Cybersecurity** — Web Security, Penetration Testing, CTFs
-- **Embedded Systems** — Sensor Integration, Real-Time Systems
-- **Cloud Computing** — AWS EC2, S3, Infrastructure Management
+- Developed a computer-vision pipeline for detecting buildings in aerial imagery captured during rocket flight.
+- Built cloud training workflows using EC2, S3, and Docker; tested image recognition on real Mach-25 launch imagery.
 
----
+### Exo-Lab — Exoplanet Data Visualisation
+*Python · Flask · React · Three.js · scikit-learn*
 
-## Achievements & Highlights
+Built an interactive platform for exploring exoplanet datasets, with a Flask API and 3D visualisations. Trained and evaluated habitability-prediction models using scikit-learn and Pandas.
 
-**Successfully tested AI terrain recognition model** on real rocket launch photos at **Mach-25 (Scotland)**
+## Award
 
-**Active Competitor** in CTFs, Hackathons, and Space Engineering competitions
+**Susquehanna Award for Best Software Project in CS3305 — 2025/26**
 
-**Leadership Experience** — Managing cross-functional software and avionics teams
+Team Lead for the group software project that achieved the **highest overall project mark** at UCC.
 
-**Mission-Critical Development** — Delivering reliable software for high-stakes aerospace applications
+## Technical skills
 
----
+| Area | Technologies |
+| --- | --- |
+| Programming | Python, Go, C/C++, SQL, TypeScript, Java, Bash |
+| Platforms and tools | Linux, Git, Docker, Kubernetes, OpenShift, AWS, GCP |
+| Application development | Qt6, Flask, React, Flutter, Gin, MySQL |
+| Data and ML | Pandas, scikit-learn, TensorFlow, Keras, OpenCV |
 
-## Get in Touch
+## Competitions and involvement
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hleb-slyusar-8089162b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:slyusar.gleb.ua@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://4slowbomb.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
-  </a>
-</p>
+- **Google Hackathon — Invited Competitor, 2025:** co-developed an AI prototype to identify derelict and underutilised properties from satellite and street-level imagery.
+- **NASA Space Apps Challenge — Team Lead, 2025:** led a 48-hour build of a scientific web application using Flask, React, Three.js, and AI-driven data analysis.
+- **ACM Ireland Collegiate Programming Contest:** represented UCC in 2024 and 2025.
+- **ZeroDays CTF:** competed in 2025 and 2026.
+- **UCC & NGINX Hack Weekend — Team Lead, 2025.**
+- **Health & Safety Officer, UCC Rocket and Space Exploration:** 2025–present.
+- **Class Representative, University College Cork:** 2024–2025.
 
----
+I speak English, Ukrainian, German, and Russian.
 
-<p align="center">
-  <em>💡 Open to collaboration on cybersecurity, AI/ML, and aerospace software projects</em>
-</p>
+Interested in software engineering opportunities and collaboration on developer tools, ML systems, telemetry, and aerospace software. [Get in touch](mailto:slyusar.gleb.ua@gmail.com).
