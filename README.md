@@ -12,7 +12,7 @@ I'm a final-year Computer Science student at **University College Cork**, gradua
 
 ## A few things I've been up to
 
-- **Red Hat, OpenShift AI:** shipped 8 merged PRs across 5 repositories and wrote about 50 Python/Go tests. A healthy respect for things that can fail.
+- **Red Hat, OpenShift AI:** shipped PRs across 5 repositories and wrote about Python/Go tests. A healthy respect for things that can fail.
 - **Rocket avionics:** led a six-person software team across Mach-25 and Mach-26, supporting two rocket flights. My corner of the launchpad: ground-station software and image recognition.
 - **Susquehanna Award for Best Software Project, CS3305 (2025/26):** team lead for the group project with the highest overall mark at UCC. A good team makes a difference.
 
