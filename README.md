@@ -18,11 +18,11 @@ I'm a final-year Computer Science student at **University College Cork**, gradua
 
 ## Currently on my desk
 
-🚀 **CosmoSoft** — a C++/Qt6 ground station for live rocket telemetry. Turning radio packets into plots people can actually use.
+**CosmoSoft** — a C++/Qt6 ground station for live rocket telemetry. Turning radio packets into plots people can actually use.
 
-🧪 **Final-year project** — ML-guided simulation testing of rocket flight software. Can smarter test selection find failures faster? That's the question I'm investigating.
+**Final-year project** — ML-guided simulation testing of rocket flight software. Can smarter test selection find failures faster? That's the question I'm investigating.
 
-🛰️ **Image recognition** — Python, TensorFlow, and AWS workflows for aerial imagery, including real Mach-25 launch images.
+**Image recognition** — Python, TensorFlow, and AWS workflows for aerial imagery, including real Mach-25 launch images.
 
 ## Things I build with
 
